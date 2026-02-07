@@ -21,7 +21,7 @@
     <ClCompile Include="..\..\..\..\Downloads\LinkedList\list.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\LinkedList\test.c">
+    <ClCompile Include="..\..\..\..\Downloads\MyVector\MyStack\Stack.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -30,6 +30,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\Downloads\LinkedList\list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\MyVector\MyStack\Stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\MyVector\MyStack\Vector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
